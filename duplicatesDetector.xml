@@ -2,6 +2,7 @@
   <component name="DuplicatesDetector">
     <entry key="Java">
       <language>
+        <option name="anonymizeIdentifiers" value="false" />
         <option name="enabledIndex" value="false" />
       </language>
     </entry>
