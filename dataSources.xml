@@ -1,0 +1,10 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="@guhada_dev" uuid="2586557c-cfbc-4f75-aa23-d13890a2c2b4">
+      <driver-ref>mysql_aurora</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql:aurora://guhada-dev.cytgq1fzvvht.ap-northeast-2.rds.amazonaws.com:3306/guhada_dev</jdbc-url>
+    </data-source>
+  </component>
+</application>
