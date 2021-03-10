@@ -6,5 +6,11 @@
       <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql:aurora://guhada-dev.cytgq1fzvvht.ap-northeast-2.rds.amazonaws.com:3306/guhada_dev</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="@guhada_prod" uuid="6ab45e1b-ce41-4e6c-9b61-1986035149f6">
+      <driver-ref>mysql_aurora</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql:aurora://guhada-prod.cytgq1fzvvht.ap-northeast-2.rds.amazonaws.com:3306/guhada_prod</jdbc-url>
+    </data-source>
   </component>
 </application>
